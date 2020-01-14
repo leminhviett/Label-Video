@@ -82,5 +82,5 @@ if __name__ == "__main__":
         else:
             break
 
-cap.release()
-cv2.destroyAllWindows()
+    cap.release()
+    cv2.destroyAllWindows()
